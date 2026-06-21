@@ -1,0 +1,21 @@
+# Deepfake Detector — Python 3.12 compatible requirements
+# Install with: pip install -r requirements.txt
+
+# Core ML — matches your training environment
+tensorflow==2.16.1
+
+# numpy <2.0 required by TF 2.16 — do NOT upgrade
+numpy==1.26.4
+
+# Face detection
+mediapipe==0.10.21
+
+# Computer vision
+opencv-python==4.9.0.80
+
+# TFLite runtime (latest available for Python 3.12)
+ai-edge-litert==2.1.5
+
+Pillow==10.3.0
+
+matplotlib

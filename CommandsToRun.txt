@@ -1,0 +1,25 @@
+Deepfake Detector / Defense Demo — Quick Run Guide
+
+1) Create virtual environment
+python -m venv deepfake_env
+
+2) Activate virtual environment
+
+Windows CMD:
+deepfake_env\Scripts\activate
+
+Windows PowerShell:
+.\deepfake_env\Scripts\Activate.ps1
+
+3) Install dependencies
+pip install -r requirements.txt
+
+4) Run the Deepfake Detector
+python deepfake_detector_video.py
+
+5) Run the Defense Demo
+python defense_demo_v6-3.py
+
+Notes:
+- Tkinter must be available in your Python installation.
+- Use a large window or full screen for the best GUI experience.

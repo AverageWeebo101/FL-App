@@ -1,0 +1,13 @@
+In Sequential Order on Terminal:
+
+Step 1:
+.\deepfake_env\Scripts\activate.bat
+
+Step 2
+python .\deepfake_detector_video.py
+
+Step 2 Alternative:
+
+python .\defense_demo_v6.py
+
+Highly recommended to use the application on full screen.

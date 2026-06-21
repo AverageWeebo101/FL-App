@@ -1,0 +1,10 @@
+# Deepfake Detector / Defense Demo
+# Recommended Python version: 3.12
+
+tensorflow==2.16.1
+numpy==1.26.4
+mediapipe==0.10.21
+opencv-python==4.9.0.80
+ai-edge-litert==2.1.5
+Pillow==10.3.0
+matplotlib==3.8.4

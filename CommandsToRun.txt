@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python deepfake_detector_video.py
 
 5) Run the Defense Demo
-python defense_demo_v6.py
+python defense_demo_v7.py
 
 Notes:
 - Tkinter must be available in your Python installation.
